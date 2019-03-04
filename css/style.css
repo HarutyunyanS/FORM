@@ -59,6 +59,26 @@ body {
   border: 1px solid #c0c0c0;
   border-radius: 2px;
 }
+
+.userRatings,
+input[type="checkbox"]{
+    float: left;
+    margin-right: 5px;
+}
+.radio {
+    position: relative;
+    left: -43px;
+    margin-left: 10px;
+    display: block;
+    padding-bottom: 10px;
+}
+.chechbox{
+    display: block;
+    position: relative;
+    left: -43px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+}
 #title {
     
     font-size: 35px;
